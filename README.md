@@ -1,5 +1,5 @@
 # Anomaly-detection-example
-Unsupervised anomaly detection test task from Welltory using Prophet  
+Unsupervised anomaly detection test task from Welltory using Prophet. [nbviewer](https://nbviewer.jupyter.org/github/kondrasso/Anomaly-detection-example/blob/master/Welltory_test.ipynb) is recommended to view due to large amount of interactive plots.
 
 ![Prophet preview](pic.png)
 
